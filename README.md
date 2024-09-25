@@ -1,16 +1,13 @@
-## Hi there 👋
+### boas vinda ao meu perfil 💙
 
-<!--
-**isabelli12/isabelli12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ meu nome è isabelli alves 
 
-Here are some ideas to get you started:
+ - estou estudando na alura
+ - estou me devolvendo na linguagem javascript
+ - utilizando este espaço para organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - ### vocé entrar em contato comigo 📫
+
+ - isabelli.micaloski@escola.pr.gov.br
+
+ - 
