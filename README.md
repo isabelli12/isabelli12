@@ -1,13 +1,11 @@
-### boas vinda ao meu perfil 💙
+### Boas vinda ao meu perfil 💙
+ Meu nome è Isabelli Alves 
 
- meu nome è isabelli alves 
+ - Estou estudando na Alura
+ - Estou me devolvendo na linguagem javascript
+ - Utilizando este espaço para organização e compartilhamento dos meu projetos desenvolvidos
 
- - estou estudando na alura
- - estou me devolvendo na linguagem javascript
- - utilizando este espaço para organização e compartilhamento dos meu projetos desenvolvidos
-
- - ### vocé entrar em contato comigo 📫
+ - ### Vocé entrar em contato comigo 📫
 
  - isabelli.micaloski@escola.pr.gov.br
 
- - 
